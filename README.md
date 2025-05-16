@@ -1,17 +1,21 @@
-# Advanced Keylogger (Educational Use Only)
+Advanced Keylogger (Educational Use Only)
+This is a Python-based advanced keylogger designed for educational and ethical purposes. It demonstrates capturing keyboard events, encrypting logged keystrokes securely, and decrypting them as needed. The project is structured for easy extension and maintenance.
 
-This is a Python-based keylogger for educational and ethical use, showcasing how keyboard events can be captured, logged, and managed securely.
+Features
+Real-time keylogging with timestamped entries
 
-## Features
-- Timestamped logs
-- Logs stored in structured format
-- Clean project architecture
-- Extendable (emailing, remote sync, etc.)
+Encrypted logs for enhanced security
 
-## Run It
-```bash
-pip install -r requirements.txt
-python main.py
-```
+Decryption utility to read logs safely
 
-Press `Esc` to stop logging.
+Clean, modular project structure with separate folders for source, utilities, and logs
+
+Graceful exit using Esc key to stop logging
+
+Extendable for future features like email reports, remote syncing, or GUI
+
+AES Encryption
+
+Configurable Key
+
+Secure Log Viewer
