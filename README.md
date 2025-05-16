@@ -17,7 +17,3 @@ python main.py
 ```
 
 Press `Esc` to stop logging.
-
-## WARNING
-Use only on systems you own or have explicit permission to test. Unauthorized use is illegal.
-218a507 (Initial commit of advanced keylogger project)
