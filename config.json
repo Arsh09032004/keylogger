@@ -1,0 +1,12 @@
+{
+  "screenshot_interval": 10,
+  "email": {
+    "enabled": false,
+    "sender": "",
+    "password": "",
+    "receiver": "",
+    "smtp_server": "",
+    "smtp_port": 587,
+    "send_interval": 300
+  }
+}
